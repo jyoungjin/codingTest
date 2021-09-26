@@ -4,7 +4,11 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 
-/* 이진트리 레벨탐색(BFS : Breadth-First Search */
+/* 이진트리 레벨탐색(넓이우선탐색(레벨탐색) BFS : Breadth-First Search)
+*          1
+*      2       3
+*    4   5   6   7
+* */
 public class section7_7 {
 
     Node root;
